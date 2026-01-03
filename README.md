@@ -1,11 +1,4 @@
-This project demonstrates how simple product attributes — price and
-rating — can drive purchase decisions in an e-commerce setting. By
-combining web scraping, simulated behavior modeling, and machine learning,
-I built a system that predicts purchase likelihood with over 94% accuracy.
-The model was deployed via a live Streamlit app, turning data insights into
-an interactive experience. This reflects a ful data science pipeline — from
-raw data to real-world usability
-
+This project demonstrates how fundamental product attributes — such as price and rating — influence purchase decisions in an e-commerce setting. By integrating web scraping, simulated user behavior modeling, and machine learning, I developed a predictive system capable of estimating purchase likelihood with over 94% accuracy. The model was deployed as a live Streamlit app, transforming data insights into an interactive user experience. This project illustrates a complete data science pipeline, from raw data acquisition to real-world deployment and usability.
 
 BeautifulSoup – Web scraping product data
 Pandas / NumPy – Data handling
